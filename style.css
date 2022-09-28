@@ -1,0 +1,21 @@
+html{
+    background: rgb(45, 45, 45);
+}
+
+nav{
+    position: absolute;
+    top: 0;
+}
+
+nav img{
+    width: 100px;
+}
+
+main{
+    background: white;
+    display: flex;
+    width: 60vh;
+    margin: auto;
+    height: 60vh;
+    align-items: center;
+}
